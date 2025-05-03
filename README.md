@@ -93,7 +93,7 @@ cd fleet-geofence-tracker
 $firebase = new firebaseRDB("https://your-project.firebaseio.com/");
 ```
 
-3. Configure your Google Maps API key in relevant files (e.g., `track.php`, `map_form.php`)
+3. Configure your Google Maps API key in relevant files (e.g., `live_location_of_trucks.php`, `map_form.php`)
 
 4. Deploy on your local server or live server with PHP 7+
 
