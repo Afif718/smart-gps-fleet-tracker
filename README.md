@@ -10,7 +10,7 @@ This is a **real-time fleet tracking and geofencing system** built with PHP, Fir
 - 🧭 **Geofence Entry Logging**: Automatically logs when a vehicle enters a geofence, with timestamp, geofence name, and truck ID
 - 📋 **Truck Info Dashboard**: Lists all registered trucks with their latest GPS and status info
 - 📍 **Geofence Viewer**: View all saved geofences on a map
-- 🔄 **Data Sources**: Supports GPS data collection from IoT devices (e.g., SIM7600+ESP32) or smartphone apps
+- 🔄 **Data Sources**: Supports GPS data collection from IoT devices or smartphone apps
 - 💾 **Database**: Uses Firebase for real-time updates and MySQL for persistent logging
 
 ---
