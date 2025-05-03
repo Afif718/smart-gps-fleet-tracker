@@ -43,7 +43,7 @@ This is a **real-time fleet tracking and geofencing system** built with PHP, Fir
 ## 🔄 GPS Data Collection
 Supports two modes:
 
-1. **IoT GPS Devices** (e.g., SIM7600 with ESP32) sending live GPS data
+1. **IoT GPS Devices** sending live GPS data
 2. **Smartphones** with location tracking apps running in the background
 
 ### ➕ Data is stored into:
