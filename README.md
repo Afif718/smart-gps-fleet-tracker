@@ -128,8 +128,8 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 **M. H. A. Afif**  
 Founder & Lead Engineer – SystemSage Solutions  
-🔗 [LinkedIn]([(https://www.linkedin.com/in/mhafif](https://www.linkedin.com/in/mha-afif/)
-🔗 [Portfolio Website]([(https://afif.systemsage.tech/](https://afif.systemsage.tech/))
+🔗 [LinkedIn](https://www.linkedin.com/in/mha-afif/)  
+🔗 [Portfolio Website](https://afif.systemsage.tech/)
 
 ---
 
