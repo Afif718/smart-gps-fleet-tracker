@@ -52,6 +52,20 @@ Supports two modes:
 
 ---
 
+## 🗀️ Industry Applications
+This system can benefit various industries and sectors, including:
+
+- ⛽ **Logistics & Transportation** – For managing and monitoring fleets, deliveries, and shipments
+- ✈️ **Aviation Ground Services** – To track movement of service vehicles within airport premises
+- ⛴️ **Mining & Construction** – To monitor on-site equipment and ensure safety within predefined zones
+- 🌳 **Forestry & Agriculture** – For managing movement of equipment or transport trucks in large, remote areas
+- 🏛️ **Municipal & Utility Services** – For tracking garbage collection, maintenance vehicles, or emergency services
+- 🚑 **Healthcare (Ambulance Fleet)** – To track ambulances in real-time and log hospital zone entries
+- 🚨 **Security & Law Enforcement** – Monitor patrol routes and enforce zone-specific movement
+- 🏢 **Real Estate & Facility Management** – Manage on-site vehicle access for residential or industrial complexes
+
+---
+
 ## 🗺️ How it Works
 
 1. **Drivers or IoT devices send GPS coordinates to Firebase**
@@ -114,7 +128,8 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 **M. H. A. Afif**  
 Founder & Lead Engineer – SystemSage Solutions  
-🔗 [LinkedIn](https://www.linkedin.com/in/mhafif) 
+🔗 [LinkedIn]([https://www.linkedin.com/in/mhafif](https://www.linkedin.com/in/mha-afif/)
+🔗 [Portfolio Website]([(https://afif.systemsage.tech/](https://afif.systemsage.tech/))
 
 ---
 
